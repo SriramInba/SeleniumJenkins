@@ -8,4 +8,9 @@
       <class name="Training.SeleniumFrameworkDesign.shopping"/>
     </classes>
   </test>
+   <test thread-count="5" name="Test">
+    <classes>
+      <class name="Training.SeleniumFrameworkDesign.Errorvalidation"/>
+    </classes>
+  </test>
 </suite> <!-- Suite -->
